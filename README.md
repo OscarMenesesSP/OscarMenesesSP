@@ -1,4 +1,4 @@
-# Bienvenido a Mi Perfil de GitHub
+<h1 align="center">Bienvenido a Mi Perfil de GitHub</h1> 
 
 ## Acerca de Mí
 
@@ -16,13 +16,32 @@ Además, me encargare de realizar pruebas *end to end* para garantizar la calida
 Este puesto me brindará una invaluable oportunidad para adquirir experiencia práctica y desarrollar mis habilidades técnicas mientras me sumergo en el mundo profesional del desarrollo frontend.
 
 ## Habilidades
-- HTML
-- CSS
-- JavaScript
-- React
-- TailwindCSS
-- SQL
-- NodeJs
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
 
 ## Contacto
@@ -31,3 +50,5 @@ Correo Electrónico: <omeneses.s@spsolutions.com.mx>
 LinkedIn: [Perfil](https://www.linkedin.com/in/oscarmeneses99/)
 
 Sitio Web Personal: <https://meneses.app/>
+
+
